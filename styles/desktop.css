@@ -1,0 +1,83 @@
+
+
+header {
+    height: 4rem;
+}
+
+header h1 {
+    left: 2%;
+    font-size: 1rem;
+}
+
+#top {
+    height: 50rem;
+}
+
+#top div div {
+    width: 45%;
+    height: 20rem;
+    margin-bottom: 10rem;
+}
+
+#top div div p {
+    margin-top: 1rem;
+    top: 12rem;
+    width: 70%;
+}
+
+#top div div a {
+    margin-top: 1rem;
+    width: max(30%, 10rem);
+    height: 15%;
+}
+
+#top div div a svg {
+    width: 10%;
+}
+
+#top div div a span {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.sub-menu {
+    width: 80%;
+    margin-top: 3rem;
+}
+
+hr {
+    width: 40%;
+}
+
+#menu {
+    padding-bottom: 10rem;
+}
+
+.sub-menu h1 {
+    margin-bottom: 1rem;
+}
+
+.sub-menu div {
+    margin-top: .5rem;
+}
+
+.sub-menu .menu-item {
+    width: 25rem;
+    height: 9rem;
+    margin-right: 2rem;
+}
+
+.menu-item img {
+    margin-left: .5rem;
+    width: 8rem;
+    height: 8rem;
+}
+
+.menu-item p {
+    margin-left: 2rem;
+    max-width: calc(100% - 12.5rem);
+}
+
+footer {
+    height: 15rem;
+}
