@@ -73,11 +73,22 @@ hr {
     height: 8rem;
 }
 
-.menu-item p {
-    margin-left: 2rem;
+.item-information {
+    margin-left: 3rem;
     max-width: calc(100% - 12.5rem);
 }
 
 footer {
     height: 15rem;
+}
+
+.footer-menu {
+    width: 20rem;
+}
+
+
+footer > div {
+    margin-top: 2rem;
+    width: 90%;
+    padding-bottom: 5rem;
 }

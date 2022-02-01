@@ -65,6 +65,10 @@ hr {
     margin-top: .5rem;
 }
 
+footer > div {
+    margin-top: 1rem;
+}
+
 .sub-menu .menu-item {
     width: 100%;
     height: 7rem;
@@ -79,11 +83,12 @@ hr {
     height: 6rem;
 }
 
-.menu-item p {
+.item-information {
     margin-left: 2rem;
-    max-width: calc(100% - 10.5rem);
+    max-width: calc(100% - 8.5rem);
 }
 
 footer {
     height: 15rem;
+    font-size: 12px;
 }
